@@ -1,1 +1,2 @@
 # IndianMarketsQuantAI
+This repository is our code subission for the IIT Roorkee Quant AI Challenge, where we have used ML and DL technques to develop intraday strategies to be able to predict market movements. We have made an attempt to compare our model against standard statistical trading techniques as well, and managed to obtain better results than most traditional indicator based strategies. We have made use of DNNs, LSTMs, RNNs, Random Forest Classifiers, and other mixed ML approaches, in addition to using indicator based strategies such as ADX, RSI, SMA, 
